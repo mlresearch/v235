@@ -42,6 +42,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Remove problematic template file
+        run: rm -f vendor/bundle/ruby/3.1.0/gems/jekyll-3.9.5/lib/site_template/_posts/0000-00-00-welcome-to-jekyll.markdown.erb
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
