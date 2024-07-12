@@ -62,6 +62,7 @@ exclude:
 - Gemfile
 - ".gitignore"
 - vendor
+- binaries
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
