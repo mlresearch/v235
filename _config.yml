@@ -61,6 +61,7 @@ exclude:
 - README.md
 - Gemfile
 - ".gitignore"
+- vendor
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
