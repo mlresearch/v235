@@ -54,7 +54,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/obando-ceron24b/obando-ceron24b.pdf
+pdf: https://proceedings.mlr.press/v235/assets/obando-ceron24b/obando-ceron24b.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

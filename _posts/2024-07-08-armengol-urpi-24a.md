@@ -46,7 +46,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/armengol-urpi-24a/armengol-urpi-24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/armengol-urpi-24a/armengol-urpi-24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

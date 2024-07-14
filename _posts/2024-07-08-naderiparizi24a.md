@@ -50,7 +50,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/naderiparizi24a/naderiparizi24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/naderiparizi24a/naderiparizi24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

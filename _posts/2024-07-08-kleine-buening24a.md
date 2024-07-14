@@ -39,7 +39,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/kleine-buening24a/kleine-buening24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/kleine-buening24a/kleine-buening24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

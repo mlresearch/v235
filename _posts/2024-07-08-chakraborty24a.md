@@ -53,7 +53,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/chakraborty24a/chakraborty24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/chakraborty24a/chakraborty24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

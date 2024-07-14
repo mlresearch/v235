@@ -44,7 +44,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/cohen-addad24d/cohen-addad24d.pdf
+pdf: https://proceedings.mlr.press/v235/assets/cohen-addad24d/cohen-addad24d.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

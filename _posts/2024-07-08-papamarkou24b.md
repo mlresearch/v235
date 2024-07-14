@@ -93,7 +93,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/papamarkou24b/papamarkou24b.pdf
+pdf: https://proceedings.mlr.press/v235/assets/papamarkou24b/papamarkou24b.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

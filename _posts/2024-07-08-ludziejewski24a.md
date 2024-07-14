@@ -62,7 +62,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/ludziejewski24a/ludziejewski24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/ludziejewski24a/ludziejewski24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

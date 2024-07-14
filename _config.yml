@@ -3,7 +3,7 @@ booktitle: Proceedings of the 41st International Conference on Machine Learning
 shortname: ICML
 volume: '235'
 year: '2024'
-start: 2024-07-21
+start: &1 2024-07-21
 end: 2024-07-27
 published: 2024-07-08
 conference_number: '41'
@@ -61,7 +61,6 @@ exclude:
 - README.md
 - Gemfile
 - ".gitignore"
-- vendor
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
@@ -86,7 +85,7 @@ conference:
   url: https://icml.cc/Conferences/2024
   location: Vienna, Austria
   dates:
-  - 2024-07-21
+  - *1
   - 2024-07-22
   - 2024-07-23
   - 2024-07-24

@@ -48,7 +48,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/malekmohammadi24a/malekmohammadi24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/malekmohammadi24a/malekmohammadi24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

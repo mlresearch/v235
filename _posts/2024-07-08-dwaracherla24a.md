@@ -42,7 +42,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/dwaracherla24a/dwaracherla24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/dwaracherla24a/dwaracherla24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

@@ -53,7 +53,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/balasubramanian24a/balasubramanian24a.pdf
+pdf: https://proceedings.mlr.press/v235/assets/balasubramanian24a/balasubramanian24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---
