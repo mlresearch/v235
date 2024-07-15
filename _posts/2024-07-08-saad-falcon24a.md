@@ -55,7 +55,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/assets/saad-falcon24a/saad-falcon24a.pdf
+pdf: https://raw.githubusercontent.com/mlresearch/v235/main/assets/saad-falcon24a/saad-falcon24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

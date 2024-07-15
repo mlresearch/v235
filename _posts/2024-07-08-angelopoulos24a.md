@@ -38,7 +38,7 @@ issued:
   - 2024
   - 7
   - 8
-pdf: https://proceedings.mlr.press/v235/assets/angelopoulos24a/angelopoulos24a.pdf
+pdf: https://raw.githubusercontent.com/mlresearch/v235/main/assets/angelopoulos24a/angelopoulos24a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---
