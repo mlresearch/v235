@@ -1,44 +1,37 @@
-## PMLR Proceedings Initial Submission
+# Paper Edit Request
 
-### Conference Information
-- **Conference Name**: 
-- **Volume Number**: 
-- **Editors**: 
+## Your Role
+<!-- Please mark the appropriate option with an "x" -->
+- [ ] I am an author of this paper
+- [ ] I am acting on behalf of an author
+- [ ] I am an editor of this volume
+- [ ] I am acting on behalf of an editor
+- [ ] Other (please describe):
 
-### Submission Checklist
-Please confirm that you have completed the following requirements by checking all the boxes:
+If you are acting on behalf of someone, please provide their name, affiliation and Github ID:
+<!-- Please provide details here -->
 
-- [ ] The BibTeX file (`*.bib`) contains a single `@Proceedings` entry with all required fields:
-  - [ ] `booktitle`, `name`, `shortname`, `year`
-  - [ ] `editor` in "Lastname, Firstnames" format
-  - [ ] `volume` number as assigned
-  - [ ] `start` and `end` dates in YYYY-MM-DD format
-  - [ ] `address` with venue, city, country
-  - [ ] `conference_url`
+## Nature of Changes
+<!-- Please mark the appropriate option with an "x" -->
+- [ ] Minor edit to meta information (typo, formatting, etc.)
+- [ ] PDF change (requires proceedings editor permission)
+- [ ] Content change (requires proceedings editor permission)
 
-- [ ] The BibTeX file contains an `@InProceedings` entry for each paper with:
-  - [ ] `title`, `author`, `pages`, `abstract` for every paper
-  - [ ] Paper identifiers follow the `lastnameYY` format (with disambiguating letters if needed)
-  - [ ] Author names are correctly formatted ("Lastname, Firstnames")
-  - [ ] Special characters in titles and author names use LaTeX commands and not unicode
-  - [ ] Mathematics in abstracts uses valid LaTeX between `$` marks
+## For Content Changes
+If this is a content change, please provide:
+1. Name of the proceedings editor who gave permission:
+2. Method of permission (email, verbal, etc.):
+3. Date permission was granted:
+4. Any relevant correspondence or notes:
 
-- [ ] All paper files are correctly formatted:
-  - [ ] PDF filenames match their BibTeX identifiers
-  - [ ] Supplementary files use the `-supp` suffix
-  - [ ] All PDFs open correctly and are not corrupted
-  - [ ] If needed Software and video links are provided as fields in the BibTeX entries (don't provide software or video as files)
+## GitHub Information
+Proceedings editor's GitHub username: @
+<!-- This will be used to tag them in the PR -->
 
-- [ ] Permission forms:
-  - [ ] Collected from all authors
-  - [ ] Named according to paper ID with `Permission` suffix
-  - [ ] Placed in the `vXpermissions` directory with X as the volume number
+## Description of Changes
+<!-- Please provide a detailed description of the changes you are proposing -->
 
-- [ ] We have verified the proceedings by:
-  - [ ] Checking all paper PDFs are accessible and correctly named
-  - [ ] Validating the BibTeX file syntax
-  - [ ] Ensuring all required metadata is present and correctly formatted
-  - [ ] Confirming all paper identifiers are unique and follow the naming convention
+> **Note on BibTeX files**: `.bib` files are not tracked in this repository and are not part of the rendered output. If you are trying to correct paper metadata, please edit the relevant file in `_posts/` instead.
 
-### Additional Comments
-<!-- please place any additional information for the PMLR Series Editors here -->
+## Additional Notes
+<!-- Add any other relevant information here --> 
